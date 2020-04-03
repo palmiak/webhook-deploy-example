@@ -1,0 +1,26 @@
+# WordPress core files
+/index.php
+/license.txt
+/readme.html
+/wp-*.php
+/xmlrpc.php
+/wp-includes/
+/wp-admin/
+/wp-content/plugins/hello.php
+
+# mu-plugins
+/wp-content/mu-plugins/
+
+# VS Code configuration files
+.vscode/
+
+# Lando configuration files
+.lando/
+.lando.yml
+
+# PHP configuration files
+php.ini
+
+# Log files
+*.sql
+*.log
