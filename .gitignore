@@ -24,3 +24,6 @@ php.ini
 # Log files
 *.sql
 *.log
+
+# OS files
+.DS_Store
